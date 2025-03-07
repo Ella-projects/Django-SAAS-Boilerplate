@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lcia_39_ecoinvent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tutorial-env/lib/python3.13/site-packages/bw2io/data/lcia/lcia_39_ecoinvent.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

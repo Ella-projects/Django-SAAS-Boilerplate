@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tutorial-env/lib/python3.13/site-packages/bw_processing/examples/datapackage_2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tutorial-env/lib/python3.13/site-packages/bw_processing/examples/simple.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
